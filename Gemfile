@@ -54,3 +54,6 @@ gem 'coffee-script-source','1.8.0'
 
 # Bootstrap gem
 gem 'bootstrap-sass', '3.3.6'
+
+# a gem used for testing
+gem 'rails-controller-testing'
