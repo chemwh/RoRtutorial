@@ -57,3 +57,7 @@ gem 'bootstrap-sass', '3.3.6'
 
 # a gem used for testing
 gem 'rails-controller-testing'
+
+# bcrypt gem used for security
+gem 'bcrypt', '3.1.11'
+
