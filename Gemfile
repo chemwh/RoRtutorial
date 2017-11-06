@@ -61,3 +61,6 @@ gem 'rails-controller-testing'
 # bcrypt gem used for security
 gem 'bcrypt', '3.1.11'
 
+#jquery-rails gem, Use jquery as the JavaScript library
+gem 'jquery-rails'
+
