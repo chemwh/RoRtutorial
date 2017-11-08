@@ -64,3 +64,10 @@ gem 'bcrypt', '3.1.11'
 #jquery-rails gem, Use jquery as the JavaScript library
 gem 'jquery-rails'
 
+#listing 10.42
+gem 'faker',  '1.7.3'
+
+# listing 10.44
+gem 'will_paginate', '3.1.5'
+gem 'bootstrap-will_paginate', '1.0.0'
+
